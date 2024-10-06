@@ -47,7 +47,7 @@
     * Install Eclipce IDE with <b>Eclipse IDE for Java EE Developers</b><br>
 
     <p align="center">
-    ![EclipseInstaller](https://github.com/user-attachments/assets/1c1d7bc4-58fb-4c0a-9d3a-5150d0d78128)
+    (https://github.com/user-attachments/assets/1c1d7bc4-58fb-4c0a-9d3a-5150d0d78128)
 
     </p>
     <br>
