@@ -47,7 +47,8 @@
     * Install Eclipce IDE with <b>Eclipse IDE for Java EE Developers</b><br>
 
     <p align="center">
-    <img align="center" alt="Screenshot" height="350" src="Resources/EclipseInstaller.png" />
+    ![image](https://github.com/user-attachments/assets/02ab844a-fc91-4f67-8d80-15220140f85c)
+
     </p>
     <br>
 
@@ -57,7 +58,8 @@
         * Name your Schema that suits your <b>Database Config</b>
 
     <p align="center">
-    <img align="center" alt="Screenshot" height="350" src="Resources/sql_import.png" />
+    ![image](https://github.com/user-attachments/assets/51b46bfa-31ad-4222-94f5-2c8919bff6a7)
+
     </p>
     <br>
 
