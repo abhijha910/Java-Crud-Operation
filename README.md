@@ -1,4 +1,4 @@
-## JavaCRUD
+## Java-Crud-Operation
 
 * This is a simple User Login System created for understand Java CRUD
 
@@ -42,7 +42,7 @@
 
 2. If you like to run this project: <br>
     * Clone Repository
-        * `git clone https://github.com/lonewol7f/JavaCRUD.git`
+        * `git clone https://github.com/abhijha910/Java-Crud-Operation`
 
     * Install Eclipce IDE with <b>Eclipse IDE for Java EE Developers</b><br>
 
