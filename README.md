@@ -48,18 +48,17 @@
 
     <p align="center">
     <a href="https://github.com/user-attachments/assets/1c1d7bc4-58fb-4c0a-9d3a-5150d0d78128">Link to Asset</a>
-    </p>
-    <br>
+</p>
+<br>
 
-    * Edit Database configure file with your details (DBUtil file)
+<p>Edit the database configuration file with your details (DBUtil file).</p>
+<p>Import the SQL query into your database. Name your schema to suit your <strong>Database Config</strong>.</p>
 
-    * Import SQL query to your database
-        * Name your Schema that suits your <b>Database Config</b>
-
-    <p align="center">
+<p align="center">
     <img align="center" alt="Screenshot" height="350" width="auto" src="Resources/sql_import.png" />
-    </p>
-    <br>
+</p>
+<br>
+
 
     * Configure the IDE with Tomcat and RUN
 
