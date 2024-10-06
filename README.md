@@ -47,18 +47,19 @@
     * Install Eclipce IDE with <b>Eclipse IDE for Java EE Developers</b><br>
 
     <p align="center">
-    <img align="center" alt="Eclipse Installer" height="350" src="Resources/EclipseInstaller.png" />
-</p>
-<br>
+    <img align="center" alt="Screenshot" height="350" src="JavaCRUD-main/Resources/EclipseInstaller.png" />
+    </p>
+    <br>
 
-<p>Edit the database configuration file with your details (DBUtil file).</p>
-<p>Import the SQL query into your database. Name your schema to suit your <strong>Database Config</strong>.</p>
+    * Edit Database configure file with your details (DBUtil file)
 
-<p align="center">
-    <img align="center" alt="SQL Import" height="350" src="Resources/sql_import.png" />
-</p>
-<br>
+    * Import SQL query to your database
+        * Name your Schema that suits your <b>Database Config</b>
 
+    <p align="center">
+    <img align="center" alt="Screenshot" height="350" src="JavaCRUD-main/Resources/sql_import.png" />
+    </p>
+    <br>
 
     * Configure the IDE with Tomcat and RUN
 
